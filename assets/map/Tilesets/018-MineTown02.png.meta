@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "261b7f5a-f965-4404-aa36-744e2184bfd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "018-MineTown02": {
+      "ver": "1.0.3",
+      "uuid": "35165ed3-cff8-4367-9b39-4efc97937d8b",
+      "rawTextureUuid": "261b7f5a-f965-4404-aa36-744e2184bfd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 828,
+      "rawWidth": 256,
+      "rawHeight": 832,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

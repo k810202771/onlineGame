@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b1943c8a-d96f-4264-baf5-4735459b97f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "020-Sa_Grass03": {
+      "ver": "1.0.3",
+      "uuid": "62fb715e-e1e9-4d19-9d5f-4995e37896fb",
+      "rawTextureUuid": "b1943c8a-d96f-4264-baf5-4735459b97f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 128,
+      "rawWidth": 96,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="53">
+ <tileset firstgid="1" name="001-Grassland01" tilewidth="32" tileheight="32" tilecount="144" columns="8">
+  <image source="Tilesets/001-Grassland01.png" width="256" height="576"/>
+ </tileset>
+ <layer id="1" name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
+  </data>
+ </layer>
+ <layer id="4" name="T2" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzllkuOq0AMRS0SMYAIGIQsAVhpkhFhyY+WzpGd3kAPXkkWSX2uXa7rWxXx/7X3ac1pn9Oupw2n3ej/+b5O605b6XueNp925/9x2nhaz/dgzuO0iXkd49fi9w7mhd8bawbmNmXNj+1g++1Yu5zWEmdT4nkSfwO2bQb3YO2Lfbz4fwGvJ66+YO7s6cHYAl7LnB6fC/uo+22xseR5AesAV9/ufeNczP+txNOz3jhuzB+JyWbfC78tfjZydMX3BK45G9jvRr+xt/QNYF6Ir+VrW5ivnxv/38Q841OcB3vqInl0ieRfw+8tkpvmv+b5yfqx4Ist1+VwR9/CXo3vgy9zvDF35vcdzLb4bRl/813BefK7YT8Tc62NgTly2/qT2yNr34y1jNtcf6d/iuS4/m7E/ykxTqxrIuvrgy2RHLX+7LeNJdYlvrlkTXfkcScH6ob7f5YzcmzElzjWi61jndwQ3zVvfO3sbcXfA5xXpEZZRx/WbeCujO/F7yeSt09ilifXMn8qsahpxvku49b0EXl2c6TW2OTuUnLS48vaGyJrQu08iGtkrX0zJlfki2dlu0Xy/EMO5XOPT3Nrnj1DY7iWXJqzK5hq/4HZ1DTHl0juut66rTWq/qjHfRk372rYEFk3Nvvks+etJqqdar2aoZ5UrWuJX+42kXdUG991ZM315Wzc445Zn+bZu8Az2iPvK3PgnFoDVZ+Ndy77Nn79yhvvJfVHnt/Adp7rxTBf9195nuJbjwbWe5fJn1fkPWG9T+RjiazzI7KG1cspvuvIGK2DR8HwrtgitVd9WiPP3vv4GnmvTpE88w1UdeMVWTf1TaPWufc3foeCoU78ftvIKTV3jtQhm/xtI7VhxIearlbq03dLg3951ETyXU1R437rc+VIvdf7yHfhGqkrR+lb2W+9O7wjfdc0Ja6qG75NfYt27Nl3lpyQA2Pku2WI1C157xldwPVumOObVytj3ucLcTXgHwVTDbiCZV4183uPfI+aH3Fqnn1/ef+refrbCtat5HsHs/LCnBuLXFUDbUfB9i3sW0f+eEc/I2vSN6r3sHn0ned8tX8F/y/bPyMokSw=
+  </data>
+ </layer>
+ <layer id="6" name="T3" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0bcNgEAQBdFrB5NgEkwCR4Lpvx4mpAC0QmhGeskmP9iUzOwPFShRoQ7cbdCiQx+4O2DEhDlwd8GKjC1wd8eBE9fj7t9j+trfzczM3uoG8yYJJQ==
+  </data>
+ </layer>
+ <layer id="3" name="T4" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzSESgDAQwMD7YikIoBUF+v8vEIFGnkpmordEROU16Y0X3vnklnTn43Oz09XV1dXV1dXV1dXV/XMH3/wkPfniFzJ5Mys=
+  </data>
+ </layer>
+</map>

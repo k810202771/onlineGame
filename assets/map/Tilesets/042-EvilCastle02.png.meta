@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "81323de7-9705-48f1-a423-979889f6c715",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "042-EvilCastle02": {
+      "ver": "1.0.3",
+      "uuid": "d0e1652e-2b15-4de5-a704-27e39c602e9b",
+      "rawTextureUuid": "81323de7-9705-48f1-a423-979889f6c715",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 832,
+      "rawWidth": 256,
+      "rawHeight": 832,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

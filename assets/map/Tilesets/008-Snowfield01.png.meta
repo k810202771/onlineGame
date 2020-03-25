@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f59dc08e-81b0-4775-856f-42296f8b1bca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "008-Snowfield01": {
+      "ver": "1.0.3",
+      "uuid": "069c6c23-fcce-4ef9-a964-8fef58e3d7b9",
+      "rawTextureUuid": "f59dc08e-81b0-4775-856f-42296f8b1bca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 864,
+      "rawWidth": 256,
+      "rawHeight": 864,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

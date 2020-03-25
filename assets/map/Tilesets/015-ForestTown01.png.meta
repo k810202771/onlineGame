@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e8fe0230-5330-4a50-8f06-08b4e607982c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "015-ForestTown01": {
+      "ver": "1.0.3",
+      "uuid": "8dbe90ce-1b38-4d78-9f14-7fe3145fd411",
+      "rawTextureUuid": "e8fe0230-5330-4a50-8f06-08b4e607982c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 1056,
+      "rawWidth": 256,
+      "rawHeight": 1056,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

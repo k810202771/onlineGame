@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a29d9dcf-1f8e-4925-a5db-49829759b4fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "010-CastleTown02": {
+      "ver": "1.0.3",
+      "uuid": "f1e2687c-bab6-4e5c-850b-5e1ea780c8b6",
+      "rawTextureUuid": "a29d9dcf-1f8e-4925-a5db-49829759b4fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 734,
+      "rawWidth": 256,
+      "rawHeight": 736,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

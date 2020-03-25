@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e0bc3c0e-ca20-428b-ae4f-56b889edfef0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "022-SnowTown02": {
+      "ver": "1.0.3",
+      "uuid": "b0a02ec2-2d81-4eee-b64b-6ee7cdc5c593",
+      "rawTextureUuid": "e0bc3c0e-ca20-428b-ae4f-56b889edfef0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 736,
+      "rawWidth": 256,
+      "rawHeight": 736,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

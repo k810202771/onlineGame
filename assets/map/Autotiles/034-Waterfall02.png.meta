@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2bed524d-dc9a-489d-ab8f-5e79f993d87e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "034-Waterfall02": {
+      "ver": "1.0.3",
+      "uuid": "8c44749e-c64b-419b-a36e-d917bde69bc4",
+      "rawTextureUuid": "2bed524d-dc9a-489d-ab8f-5e79f993d87e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 128,
+      "rawWidth": 384,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

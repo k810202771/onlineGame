@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4b343b7a-0d22-4bb3-b4d9-b1ce5fb6a796",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "020-DesertTown02": {
+      "ver": "1.0.3",
+      "uuid": "b111df5c-760f-4123-888a-d5eff1fce548",
+      "rawTextureUuid": "4b343b7a-0d22-4bb3-b4d9-b1ce5fb6a796",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 735,
+      "rawWidth": 256,
+      "rawHeight": 736,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

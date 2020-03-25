@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "acto",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f08041cc-8778-4edd-b096-14d3c03d48ba"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "056f68ad-c113-44a7-b847-d894f470e462"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "f3907bf4-8f4b-47b0-a315-66b8dcafcc1a"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "056f68ad-c113-44a7-b847-d894f470e462"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

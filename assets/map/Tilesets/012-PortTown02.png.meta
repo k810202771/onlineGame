@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9ec0c9a7-db02-4b34-a904-ba6da8a4ad40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "012-PortTown02": {
+      "ver": "1.0.3",
+      "uuid": "db4697b3-431d-4bef-bf15-e2fa2a7fa214",
+      "rawTextureUuid": "9ec0c9a7-db02-4b34-a904-ba6da8a4ad40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 670,
+      "rawWidth": 256,
+      "rawHeight": 672,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

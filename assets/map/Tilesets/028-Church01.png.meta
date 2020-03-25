@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d2bd6d65-6043-48a7-8dba-6ee3fa736ce8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "028-Church01": {
+      "ver": "1.0.3",
+      "uuid": "040e90d8-f725-4606-b95d-bcab78342a08",
+      "rawTextureUuid": "d2bd6d65-6043-48a7-8dba-6ee3fa736ce8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 1088,
+      "rawWidth": 256,
+      "rawHeight": 1088,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
